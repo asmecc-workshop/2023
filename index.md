@@ -67,11 +67,7 @@ All times are intended in Anywhere on Earth (AoE) timezone.
 ### Submission, review, participation, and publication details
 
 - **Originality**. Submitted papers must be original, unpublished, and not concurrently submitted for publication elsewhere.
-- **Kinds of submissions**. Submitted papers should provide original research contributions, and must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).
-<!-- - **Kinds of submissions**. The workshop welcomes two kinds of submissions:
-    1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).
-    2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **4 pages** (including references).
--->
+- **Kinds of submissions**. Submitted papers should provide original research contributions, and must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR). <!-- - **Kinds of submissions**. The workshop welcomes two kinds of submissions:    1. **Workshop papers**: provide original research contributions. These must not exceed **6 pages** (including references; up to two additional pages may be purchased for CR).     2. **Work-in-Progress (WIP) papers**: describe original work-in-progress research which may not have been fully validated. These must not exceed **4 pages** (including references). -->
 - **Format**. All paper submissions should follow the [formatting indications of the main conference](https://2023.acsos.org/track/acsos-2023-papers), i.e.,  IEEE 8.5" x 11" Two-Column Format ([IEEE Manuscript Templates for Conference Proceedings](https://www.ieee.org/conferences/publishing/templates.html)).
 - **E-submission site**: TBD <!-- <https://easychair.org/conferences/?conf=asmecc2023> -->
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, presentation, soundness, and overall quality -- emphasising breadth and relevance to the topics of the workshop. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
