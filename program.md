@@ -4,7 +4,7 @@
 
 layout: page
 link_title: Program
-title: DISCOLI'23 Program
+title: ASMECC'23 Program
 ---
 
 TBD
