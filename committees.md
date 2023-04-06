@@ -10,14 +10,14 @@ permalink: /committees/
 - Lukas Esterle (Aarhus University, Denmark)
 - Stefano Forti (University of Pisa, Italy)
 
-<!-- 
 ## Steering Committee
 
-- Min Chen, Huazhong (University of Science and Technology, China)
-- Giancarlo Fortino (University of Calabria, Italy)
+- Roberto Casadei (Alma Mater Studiorum - University of Bologna, Italy)
+- Lukas Esterle (Aarhus University, Denmark)
+- Alessandro Papadopoulos (Mälardalen University, Sweden)
 - Mirko Viroli (Alma Mater Studiorum - Università di Bologna, Italy)
-- Franco Zambonelli (Università degli Studi di Modena e Reggio Emilia, Italy)
-- Mengchu Zhou (New Jersey Institute of Technology, USA)
+
+<!-- 
 
 
 ## Publicity Chairs
