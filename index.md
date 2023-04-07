@@ -72,7 +72,7 @@ All times are intended in Anywhere on Earth (AoE) timezone.
     - **NOTE**: upon submission, you have to select the **track "Workshop on Autonomic and Self-* Management for the Edge-Cloud Continuum"**. 
 - **Reviews**. Papers will be peer reviewed for originality, relevance to themes, significance, presentation, soundness, and overall quality -- emphasising breadth and relevance to the topics of the workshop. All papers will be reviewed by a TPC with a minimum of 3 reviews per paper. Reviews will be single-blind.
 - **Registration and presentation**. At least one of the authors of every accepted paper must register and present the paper at the workshop.
-- **Publication and**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
+- **Publication and indexing**. All *accepted and presented* papers will be submitted to *IEEE Xplore* and indexing databases like Elsevier, IET, and Scopus.
 
 <!-- 
 - **Special issue**. A special issue on an ISI-impacted journal will be organised. A set of high-quality papers from DISCOLI will be invited to submit an extended contribution.
