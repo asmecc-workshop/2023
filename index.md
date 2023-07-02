@@ -55,8 +55,8 @@ interest include (but are not limited to) the following:
 
 ### Important Dates
 
-- Abstract deadline: July 1st, 2023 (soft) 
-- **Submission deadline**: <!-- ~~March 19th, 2023~~ --> **July 10th, 2023** [(submission link)](https://easychair.org/conferences/?conf=acsos2023)
+- Abstract deadline: July 7th, 2023 
+- **Submission deadline**: <!-- ~~March 19th, 2023~~ --> **July 20th, 2023** [(submission link)](https://easychair.org/conferences/?conf=acsos2023)
 - Notification: July 31st, 2023
 - Camera-ready submission: August 5th, 2023
 - **Workshop date**: September 25-29, 2023 (TBD)
